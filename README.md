@@ -5,5 +5,5 @@
 
 
 # My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChickenEgg09&show_icons=true&theme=highcontrast)
+![Anurag's stats](https://github-readme-stats.vercel.app/api?username=ChickenEgg09&show_icons=true&theme=highcontrast)
 
