@@ -6,6 +6,8 @@
 <a href="https://github.com/ChickenEgg09" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=plastic&logo=Github&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/kmyot_82" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 
+
+
 # My Stats
 ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=ChickenEgg09&show_icons=true&theme=highcontrast)
 
